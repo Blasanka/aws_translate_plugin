@@ -1,3 +1,4 @@
-## 0.0.1
+### 0.1.0
 
-* TODO: Describe initial release.
+* Android support for text / paragraph translate.
+* Translate status using an enum `TranslateStatus`.
