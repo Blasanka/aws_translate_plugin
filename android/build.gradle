@@ -1,0 +1,42 @@
+group 'com.example.aws_translate'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.0'
+        classpath 'com.amazonaws:aws-android-sdk-appsync-gradle-plugin:2.7.5'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        minSdkVersion 16
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+}
+
+dependencies {
+    implementation 'com.amazonaws:aws-android-sdk-mobile-client:2.16.6'
+    implementation 'com.amazonaws:aws-android-sdk-cognito:2.16.6'
+    implementation 'com.amazonaws:aws-android-sdk-auth-userpools:2.16.6'
+    implementation 'com.amazonaws:aws-android-sdk-translate:2.16.6'
+}

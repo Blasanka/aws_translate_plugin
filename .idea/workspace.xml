@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89ec89f5-21c0-4579-bbcf-3bd937eab3ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xy4EumB9WovIqjx1pqVzCS8IuX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BLiyanage\Documents\DevDir\flutter_plugins\aws_translate\lib\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89ec89f5-21c0-4579-bbcf-3bd937eab3ed" name="Default Changelist" comment="" />
+      <created>1582004908497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582004908497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="136" key="AndroidProcessChooserDialog" timestamp="1582021752053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="538" y="136" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582021752053" />
+    <state width="1323" height="190" key="GridCell.Tab.0.bottom" timestamp="1582094685104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582094685104" />
+    <state width="1323" height="190" key="GridCell.Tab.0.center" timestamp="1582094685103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582094685103" />
+    <state width="1323" height="190" key="GridCell.Tab.0.left" timestamp="1582094685103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582094685103" />
+    <state width="1323" height="190" key="GridCell.Tab.0.right" timestamp="1582094685103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582094685103" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1582083393451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582083393451" />
+  </component>
+</project>
