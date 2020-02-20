@@ -1,6 +1,6 @@
 name: aws_translate
 description: AWS Translate plugin to translate a text / paragraph with translating status.
-version: 0.1.0
+version: 0.1.1
 #author:
 homepage: https://github.com/Blasanka/aws_translate_plugin/
 
